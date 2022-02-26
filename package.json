@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@genshin-kit/core": "^2.6.2",
+    "axios": "^0.25.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "jsonfile": "^6.1.0",
+    "log4js": "^6.4.1",
+    "mysql": "^2.18.1",
+    "node-schedule": "^2.1.0",
+    "request": "^2.88.2",
+    "sharp": "^0.29.3",
+    "urlencode": "^1.1.0"
+  }
+}
